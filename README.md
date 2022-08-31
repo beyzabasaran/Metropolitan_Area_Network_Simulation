@@ -26,12 +26,6 @@ to a Wide Area Network (WAN).
 **2. Simulation Environment/Tool** 
 
 * Cisco Packet Tracer simulations were used.
-
-<img width="629" alt="Screen Shot 2022-08-08 at 20 56 11" src="https://user-images.githubusercontent.com/89788024/183482833-f19d3891-6010-48ab-a8d7-75568a15e225.png">
-
 ![man_2](https://user-images.githubusercontent.com/89788024/183482840-58f982a3-4fe6-4136-a81a-ad12866ef733.png)
-<img width="629" alt="Screen Shot 2022-08-08 at 20 56 11" src="https://user-images.githubusercontent.com/89788024/183482833-f19d3891-6010-48ab-a8d7-75568a15e225.png">
-
-![man_2](https://user-images.githubusercontent.com/89788024/183482840-58f982a3-4fe6-4136-a81a-ad12866ef733.png)
-
 <img width="633" alt="Screen Shot 2022-08-08 at 21 00 11" src="https://user-images.githubusercontent.com/89788024/183483392-ba02e4e2-4965-4310-b29b-1cb3add96f2d.png">
+<img width="629" alt="Screen Shot 2022-08-08 at 20 56 11" src="https://user-images.githubusercontent.com/89788024/183482833-f19d3891-6010-48ab-a8d7-75568a15e225.png">
